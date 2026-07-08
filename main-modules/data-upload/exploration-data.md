@@ -1,0 +1,65 @@
+# Exploration Data
+
+***
+
+### Overview
+
+This document describes the user interface of the **Exploration Data Upload** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to upload, manage, and track exploration data submissions from their respective mining companies.
+
+***
+
+### 1. Exploration Data Upload List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-05 161852.png" alt=""><figcaption><p>Exploration Data Upload List</p></figcaption></figure>
+
+#### 1.1 Page Header
+
+At the top of the content area, the page title **"Exploration Data Upload List"** is displayed in bold, preceded by a back arrow icon (`←`) for navigation to the parent page. To the right of the title, the following controls are available:
+
+* **Search Field**: A text input box with a light gray placeholder text "search", allowing users to filter the list of uploaded exploration data records by relevant keywords.
+* **Refresh Button**: A circular refresh icon accompanied by the label "Refresh", enabling users to reload the list to reflect the latest data entries.
+* **Add New Button**: A prominent blue button labeled **"+ Add New Exploration Data Upload"**, which navigates the user to the upload creation page.
+
+#### 1.2 Data List
+
+Below the header, a data grid displays previously uploaded exploration data entries. The list includes the following column headers, each equipped with sort indicators (up/down arrows) for ascending and descending ordering:
+
+* **Company Account**: Identifies the mining company associated with the upload.
+* **Year**: The reporting year for the exploration data submission.
+* **Quarter**: The fiscal quarter covered by the exploration data upload.
+* **Month**: The specific month of the data submission.
+* **Description**: A free-text field providing context or summary for the upload.
+* **Approval Status**: Indicates the current review state of the submission.
+
+#### 1.3 Empty State
+
+When no exploration data uploads exist in the system, the data grid displays an empty state. Centered within the list area is a document inbox icon accompanied by the text **"No data"** in a light gray font. This indicates that no exploration data uploads have been submitted or recorded for the current view, prompting the user to initiate a new upload.
+
+***
+
+### 2. New Exploration Data Upload (Creation Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-05 161913.png" alt=""><figcaption><p>New Exploration Data Upload ( creation page)</p></figcaption></figure>
+
+#### 2.1 Page Header
+
+The creation page header displays **"New"** in bold, preceded by a back arrow (`←`) for returning to the list view. Adjacent to the title is a **"Draft"** status badge, indicating that the current form is in an unsaved draft state. On the far right, two action buttons are available:
+
+* **Cancel Button**: A white button with a dark border and an "×" icon, labeled "Cancel". Clicking this discards the current draft and returns the user to the previous page.
+* **Save Button**: A solid blue button labeled "Save", which commits the draft and creates the exploration data upload record.
+
+#### 2.2 Upload Section
+
+The main content area features a bordered card titled **"Upload Exploration Data"**, accompanied by a document icon. In the top-right corner of this card, an orange button labeled **"Download Template"** (with a download icon) allows users to retrieve a standardized file template for data preparation.
+
+#### 2.3 File Drop Zone
+
+Centered within the card is a large, dashed-border upload area designed for drag-and-drop functionality. The zone contains:
+
+* An upload icon (depicting a document with an upward arrow) centered within the area.
+* Instructional text: **"Click or drag Exploration data file to upload"**
+* File format guidance displayed below in a smaller, lighter font: _"Support for Excel files (.xlsx, .xls) and CSV files. Maximum size 10MB."_
+
+This area accepts direct file selection via click or drag-and-drop interaction. Once a file is selected or dropped, the system processes the upload according to the supported formats and size constraints.
+
+***
