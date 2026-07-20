@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **GRA Direct Domestic Revenue** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze direct domestic revenue data submitted by their respective mining companies. The data displayed in this module originates from the **HR Statistics** section under Data Upload, where revenue statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 151629.png" alt=""><figcaption><p>Direct Domestic Revenue List</p></figcaption></figure>
-
 ***
 
 ### 1. Direct Domestic Revenue List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 151629.png" alt=""><figcaption><p>Direct Domestic Revenue List</p></figcaption></figure>
 
 #### 1.1 Page Header
 

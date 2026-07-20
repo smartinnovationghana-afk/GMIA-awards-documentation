@@ -12,11 +12,11 @@ icon: recycle
 
 This document describes the user interface of the **PR Projects** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze public relations and community project data submitted by their respective mining companies. The data displayed in this module originates from the **Sustainability Reports** section under Data Upload, where project statistics are first captured and submitted.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-07-20 192335.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ### 1. PR Projects List (View Page)
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-07-20 192335.png" alt=""><figcaption></figcaption></figure>
 
 #### 1.1 Page Header
 

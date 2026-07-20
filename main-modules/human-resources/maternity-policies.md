@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **Maternity Provisions** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze maternity provision data submitted by their respective mining companies. The data displayed in this module originates from the **HR Statistics** section under Data Upload, where maternity provision statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 191006.png" alt=""><figcaption><p>Maternity Provision List</p></figcaption></figure>
-
 ***
 
 ### 1. Maternity Provisions List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 191006.png" alt=""><figcaption><p>Maternity Provision List</p></figcaption></figure>
 
 #### 1.1 Page Header
 

@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **Energy** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze energy consumption data submitted by their respective mining companies. The data displayed in this module originates from the **Technical Statistics** section under Data Upload, where energy statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 145546.png" alt=""><figcaption><p>Energy List</p></figcaption></figure>
-
 ***
 
 ### 1. Energy List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 145546.png" alt=""><figcaption><p>Energy List</p></figcaption></figure>
 
 #### 1.1 Page Header
 

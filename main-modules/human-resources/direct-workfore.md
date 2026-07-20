@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **Direct Workforce** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze direct workforce composition data submitted by their respective mining companies. The data displayed in this module originates from the **HR Statistics** section under Data Upload, where workforce statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 185323.png" alt=""><figcaption><p>Direct Workforce List</p></figcaption></figure>
-
 ***
 
 ### 1. Direct Workforce List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 185323.png" alt=""><figcaption><p>Direct Workforce List</p></figcaption></figure>
 
 #### 1.1 Page Header
 

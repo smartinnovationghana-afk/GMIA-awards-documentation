@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **Gender Policies** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze gender policy data submitted by their respective mining companies. The data displayed in this module originates from the **HR Statistics** section under Data Upload, where gender policy statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 190447.png" alt=""><figcaption><p>Gender Policy List</p></figcaption></figure>
-
 ***
 
 ### 1. Gender Policy List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 190447.png" alt=""><figcaption><p>Gender Policy List</p></figcaption></figure>
 
 #### 1.1 Page Header
 

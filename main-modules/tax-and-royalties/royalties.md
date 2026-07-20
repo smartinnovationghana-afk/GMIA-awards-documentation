@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **Royalties** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze royalty and levy data submitted by their respective mining companies. The data displayed in this module originates from the **HR Statistics** section under Data Upload, where royalty statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 152349.png" alt=""><figcaption><p>Royalties List</p></figcaption></figure>
-
 ***
 
 ### 1. Royalties List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 152349.png" alt=""><figcaption><p>Royalties List</p></figcaption></figure>
 
 #### 1.1 Page Header
 

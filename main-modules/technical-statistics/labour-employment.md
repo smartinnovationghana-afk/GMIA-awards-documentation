@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **Labour Employment** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze employment data submitted by their respective mining companies. The data displayed in this module originates from the **Technical Statistics** section under Data Upload, where employment statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 150100.png" alt=""><figcaption><p>Labour/ Employment List</p></figcaption></figure>
-
 ***
 
 ### 1. Labour Employment List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 150100.png" alt=""><figcaption><p>Labour/ Employment List</p></figcaption></figure>
 
 #### 1.1 Page Header
 

@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **Social Contributions** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze social contribution expenditure data submitted by their respective mining companies. The data displayed in this module originates from the **Technical Statistics** section under Data Upload, where social contribution statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 150535.png" alt=""><figcaption><p>Social Contributions List</p></figcaption></figure>
-
 ***
 
 ### 1. Social Contributions (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 150535.png" alt=""><figcaption><p>Social Contributions List</p></figcaption></figure>
 
 #### 1.1 Page Header
 

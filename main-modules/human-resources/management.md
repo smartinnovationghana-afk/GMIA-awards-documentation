@@ -8,11 +8,11 @@
 
 This document describes the user interface of the **Management** module within The Ghana Chamber of Mines web portal. The module enables authorized users (managers) to browse, search, and analyze management-level workforce composition data submitted by their respective mining companies. The data displayed in this module originates from the **HR Statistics** section under Data Upload, where management statistics are first captured and submitted.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 185751.png" alt=""><figcaption><p>Management List</p></figcaption></figure>
-
 ***
 
 ### 1. Management List (View Page)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-20 185751.png" alt=""><figcaption><p>Management List</p></figcaption></figure>
 
 #### 1.1 Page Header
 
