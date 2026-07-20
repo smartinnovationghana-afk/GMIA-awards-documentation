@@ -20,10 +20,6 @@ Upload the relevant statistics file for the mining company and reporting period.
 3. Confirm the company and reporting period.
 4. Submit the file for processing.
 
-{% hint style="info" %}
-Use the same company, year, month, and quarter throughout related submissions. This keeps reporting records aligned.
-{% endhint %}
-
 ### 2. Reporting categories
 
 Technical Statistics supports these reporting categories:
@@ -42,13 +38,3 @@ Technical Statistics supports these reporting categories:
 After processing, records appear in the related reporting module. Use its search, refresh, and company filter controls to review the submitted data.
 
 Each module lists records by company account, year, month, and quarter. It also shows the measures for its reporting category.
-
-### 4. Verify a submission
-
-Check the related reporting module after uploading a file:
-
-1. Open the module for the uploaded category.
-2. Filter by the submitting company.
-3. Confirm the reporting period and displayed values.
-
-If the list shows **No data**, confirm that the upload used the correct category and reporting period.
