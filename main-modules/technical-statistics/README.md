@@ -1,69 +1,54 @@
 ---
-description: Roles, permissions, and how access flows from workspace to project.
+description: Upload and manage technical statistics submitted by mining companies.
 icon: layer-group
 ---
 
 # Technical Statistics
 
-Every member of a workspace has a role. The role determines what actions they can perform across the workspace and its projects.
+***
 
-## Roles overview
+### Overview
 
-There are five roles, ordered from least to most privileged:
+Use **Technical Statistics** under **Data Upload** to submit mining-company statistics for each reporting period. Submitted files supply the records displayed across the reporting modules.
 
-| Role         | Best for                                                        |
-| ------------ | --------------------------------------------------------------- |
-| **Guest**    | External stakeholders who only need to see published deploys    |
-| **Viewer**   | Internal users who need read-only access to drafts and settings |
-| **Editor**   | Builders who actively work on projects                          |
-| **Reviewer** | People who comment and approve, but don't push changes          |
-| **Admin**    | Workspace owners and team leads                                 |
+### 1. Upload technical statistics
+
+Upload the relevant statistics file for the mining company and reporting period. The portal processes the submission and makes the data available in its matching module.
+
+1. Go to **Data Upload → Technical Statistics**.
+2. Select the reporting category and upload its statistics file.
+3. Confirm the company and reporting period.
+4. Submit the file for processing.
 
 {% hint style="info" %}
-Guests don't count towards your member limit, making them ideal for read-only stakeholders.
+Use the same company, year, month, and quarter throughout related submissions. This keeps reporting records aligned.
 {% endhint %}
 
-## Permission matrix
+### 2. Reporting categories
 
-The full breakdown of what each role can do:
+Technical Statistics supports these reporting categories:
 
-| Action                       | Guest | Viewer | Reviewer | Editor | Admin |
-| ---------------------------- | :---: | :----: | :------: | :----: | :---: |
-| View published deploys       |   ✓   |    ✓   |     ✓    |    ✓   |   ✓   |
-| View drafts                  |   —   |    ✓   |     ✓    |    ✓   |   ✓   |
-| Comment on deploys           |   —   |    —   |     ✓    |    ✓   |   ✓   |
-| Trigger builds               |   —   |    —   |     —    |    ✓   |   ✓   |
-| Edit project settings        |   —   |    —   |     —    |    ✓   |   ✓   |
-| Manage environment variables |   —   |    —   |     —    |    ✓   |   ✓   |
-| Invite members               |   —   |    —   |     —    |    —   |   ✓   |
-| Change roles                 |   —   |    —   |     —    |    —   |   ✓   |
-| Manage billing               |   —   |    —   |     —    |    —   |   ✓   |
-| Delete projects              |   —   |    —   |     —    |    —   |   ✓   |
+* [**Mineral Production**](mineral-production.md) — ore mined, ore processed, grades, recovery, production, and exports.
+* [**Production Cost Profile**](production-cost-profile.md) — cash cost, all-in sustaining cost, and all-in cost.
+* [**Resource Financial Information**](resource-financial-information.md) — revenue repatriation and loan amortization.
+* [**Minerals Revenue**](minerals-revenue.md) — mineral production and export values.
+* [**Social Investments**](social-investments.md) — education, health, electricity, and total investments.
+* [**Energy**](energy.md) — electrical power and diesel consumption.
+* [**Labour / Employment**](labour-employment.md) — Ghanaian employees and expatriates.
+* [**Social Contribution**](social-contribution.md) — education, health, electricity, and total contributions.
 
-## How permissions flow
+### 3. View submitted data
 
-Roles are assigned at the **workspace level** and apply to every project in that workspace. There's no per-project override.
+After processing, records appear in the related reporting module. Use its search, refresh, and company filter controls to review the submitted data.
 
-If you need finer-grained access — for example, contractors who should only see one project — create a separate workspace for that work and invite them there.
+Each module lists records by company account, year, month, and quarter. It also shows the measures for its reporting category.
 
-{% hint style="warning" %}
-Per-project roles are a frequently requested feature and are on our [roadmap](https://example.com/roadmap). For now, the workspace boundary is the boundary of access.
-{% endhint %}
+### 4. Verify a submission
 
-## Changing someone's role
+Check the related reporting module after uploading a file:
 
-Workspace admins can change any member's role at any time:
+1. Open the module for the uploaded category.
+2. Filter by the submitting company.
+3. Confirm the reporting period and displayed values.
 
-1. Go to **Workspace settings → Members**
-2. Find the member and click the role dropdown next to their name
-3. Select the new role and confirm
-
-The change takes effect immediately — the member doesn't need to re-authenticate.
-
-## Removing a member
-
-Removing a member revokes their access immediately. Any content they created stays in the workspace.
-
-{% hint style="danger" %}
-If you're using SSO, removing a member from your identity provider does **not** automatically remove them from the workspace unless SCIM provisioning is enabled.
-{% endhint %}
+If the list shows **No data**, confirm that the upload used the correct category and reporting period.
