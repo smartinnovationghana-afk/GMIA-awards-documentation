@@ -33,6 +33,6 @@ Below the header, a data grid displays previously recorded resources and tools e
 
 #### 1.3 Empty State
 
-When no resources or tools exist in the system, the data grid displays an empty state. Centered within the list area is a document inbox icon accompanied by the text **"No data"** in a light gray font. This indicates that no resources or tools have been submitted or recorded by the Chamber of Mines for the current view.
+When no resources exist in the system, the data grid displays an empty state. Centered within the list area is a document inbox icon accompanied by the text **"No data"** in a light gray font. This indicates that no resources have been submitted or recorded by the Chamber of Mines for the current view.
 
 ***

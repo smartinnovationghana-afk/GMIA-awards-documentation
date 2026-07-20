@@ -1,6 +1,6 @@
 ---
 description: Roles, permissions, and how access flows from workspace to project.
-icon: lock
+icon: layer-group
 ---
 
 # Technical Statistics

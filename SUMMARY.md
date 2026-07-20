@@ -27,6 +27,8 @@
   * [Minerals Revenue](main-modules/technical-statistics/minerals-revenue.md)
   * [Social Investments](main-modules/technical-statistics/social-investments.md)
   * [Energy](main-modules/technical-statistics/energy.md)
+  * [Labour / Employment](main-modules/technical-statistics/labour-employment.md)
+  * [Social Contribution](main-modules/technical-statistics/social-contribution.md)
 * [Tax & Royalties](main-modules/tax-and-royalties.md)
 * [Human Resources](main-modules/human-resources.md)
 * [Sustainability](main-modules/sustainability.md)
